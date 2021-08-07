@@ -12,7 +12,7 @@ class _MyAppState extends State<MyApp> {
   @override
   void initState() {
     super.initState();
-    Mqchat.init('f5c8d2a0ac4294e654dfba9893295f34');
+    Mqchat.init('a672f6e5d2ad638e3f5f9319ee102de8');
   }
 
   @override
